@@ -1,6 +1,6 @@
-## Hospital Data ETL
+## Hospital Data ETL/EDA
 - Exploratory data analysis and ETL exercise using healthcare data
-- Contains two files: Jupyter Notebook, SQL script
+- Contains two files: Jupyter Notebook (ETL), SQL script (EDA)
 - Original dataset can be found here: https://www.kaggle.com/datasets/prasad22/healthcare-dataset/data
 
 #### Hospital Data ETL - Python (Jupyter Notebook)
@@ -9,4 +9,4 @@ libraries used: pandas (for data analysis), psycopg2 (adapter for PostgreSQL), s
 - Step 2: Transform and clean data, account for duplicate and missing data
 - Step 3: Load data into PostgreSQL database
 
-#### Hospital Data ETL - SQL (PostgreSQL script)
+#### Hospital Data EDA - SQL (PostgreSQL script)
